@@ -1,0 +1,81 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "slots": [],
+          "name": "SaludoIntent",
+          "samples": [
+            "saluda gris",
+            "hola",
+            "hola gris"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "CreadorIntent",
+          "samples": [
+            "Quién creó esta app",
+            "Quién es el creador",
+            "Quien creo la aplicacion"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "CarreraIntent",
+          "samples": [
+            "cuál es su carrera",
+            "Que carrera estudia"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "ColorFavoritoIntent",
+          "samples": [
+            "Cual es su color favorito",
+            "Qué color le gusta"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "CantanteFavoritoIntent",
+          "samples": [
+            "Cual es su cantante favorito",
+            "Qué cantante le gusta"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "hello world",
+            "di hola mundo",
+            "saluda en inglés"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        }
+      ],
+      "types": [],
+      "invocationName": "saluda gris"
+    }
+  }
+}
