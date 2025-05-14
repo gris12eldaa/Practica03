@@ -17,9 +17,12 @@ Matrícula: 220336 <br><br>
 Práctica 02: Esta skill responde a 4 comandos especificos  usando el modelo de interacción de Alexa:
 
 - ¿Quién creo la aplicación?
--¿Qué carrera estudia?
--¿Cuál es su color favorito?
--¿Cuál su grupo o cantante favorito?
+  
+- ¿Qué carrera estudia?
+  
+- ¿Cuál es su color favorito?
+  
+- ¿Cuál su grupo o cantante favorito?
 
 
  
